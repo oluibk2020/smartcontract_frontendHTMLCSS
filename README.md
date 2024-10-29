@@ -26,8 +26,8 @@ Before using this app, make sure you have:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/smart-contract-app.git
-   cd smart-contract-app
+   git clone https://github.com/oluibk2020/smartcontract_frontendHTMLCSS
+   cd html-fund-me-cu
    ```
 
 2. **Install Dependencies**
@@ -44,7 +44,7 @@ Before using this app, make sure you have:
 
 4. **Update Contract Details**
 
-   Open `app.js` and add your contract address and ABI where necessary.
+   Open `constant.js` and add your contract address and ABI where necessary.
 
 5. **Launch the App**
 
